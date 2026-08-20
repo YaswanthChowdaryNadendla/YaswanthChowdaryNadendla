@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github.png" alt="Yaswanth Chowdary Nadendla">
+<img src="Github.png" alt="Yaswanth Chowdary Nadendla">
 
 </div>
  
