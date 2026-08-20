@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="Banner.png" alt="Yaswanth Chowdary Nadendla" style="height: 100px; "> 
+  <img src="Banner.png" alt="Yaswanth Chowdary Nadendla"> 
 </div>
 
  
