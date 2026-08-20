@@ -3,7 +3,7 @@
 <img 
   src="Banner.png"
   width="100%"
-  height="200"
+  height="240"
   alt="Yaswanth Chowdary Nadendla GitHub Banner"
 />
 
