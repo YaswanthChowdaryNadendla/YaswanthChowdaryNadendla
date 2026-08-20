@@ -34,13 +34,13 @@
 
 <td>
 <a href="https://github.com/YaswanthChowdaryNadendla">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 </td>
 
 <td>
 <a href="https://www.linkedin.com/in/yaswanth-chowdary-nadendla-174a662a8/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/🤝_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </td>
 
@@ -58,7 +58,7 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
