@@ -12,9 +12,9 @@
  
  <div align="center">
 
-# 👋 Hi, I'm Yaswanth Chowdary
+#  Hi, I'm Yaswanth Chowdary 👋
 
-### 💻 Java Full Stack Developer | 🚀 Software Developer | 🧩 Problem Solver
+### 💻 Java Full Stack Developer | 🧠 Continuous Learner | 🧩 Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms+Enthusiast;AWS+%7C+Cloud+Computing;Learn+%7C+Build+%7C+Solve+%7C+Repeat" alt="Typing SVG">
 
