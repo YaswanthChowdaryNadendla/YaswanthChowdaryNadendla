@@ -1,8 +1,7 @@
-<div align="center">
-
-<img src="Banner.png" alt="Yaswanth Chowdary Nadendla">
-
+<div align="center"> 
+  <img src="Banner.png" alt="Yaswanth Chowdary Nadendla" style="height: 150px; width: auto;"> 
 </div>
+
  
  <div align="center">
 
