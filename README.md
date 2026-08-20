@@ -9,11 +9,9 @@
 
 </div> -->
 
- 
  <div align="center">
-
+   
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi I'm Yaswanth Chowdary Nadendla ! 
-
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms+Enthusiast;AWS+%7C+Cloud+Computing;Learn+%7C+Build+%7C+Solve+%7C+Repeat" alt="Typing SVG">
@@ -62,13 +60,29 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Pre-Final Year Computer Science and Engineering student passionate about **Java Full Stack Development, Software Engineering, Cloud Computing, and Problem Solving**.
+<img align="right" src="./Hero%20Page.png" width="380" alt="Developer Illustration">
 
-💻 I enjoy building **real-world full-stack applications** using Java, Spring Boot, React.js, MySQL, and REST APIs.
+🎓 Pre-Final Year Computer Science and Engineering student passionate about  
+**Java Full Stack Development, Software Engineering, Cloud Computing, and Problem Solving.**
 
-☁️ I also have hands-on exposure to **AWS cloud services, deployment, serverless architecture, and application monitoring**.
+<br><br>
 
-🧩 Currently strengthening my **Data Structures and Algorithms, Core Java, SQL, and backend development** skills for software engineering roles.
+💻 I enjoy building **real-world full-stack applications** using Java, Spring Boot,  
+React.js, MySQL, and REST APIs.
+
+<br><br>
+
+☁️ I also have hands-on exposure to **AWS cloud services, deployment,  
+serverless architecture, and application monitoring**.
+
+<br><br>
+
+🧩 Currently strengthening my **Data Structures and Algorithms, Core Java, SQL,  
+and backend development** skills for software engineering roles.
+
+<br clear="right">
+
+🚀 **Curious to explore. Driven to build.**
 
 ---
 
