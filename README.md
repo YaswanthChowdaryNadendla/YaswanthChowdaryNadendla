@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img 
   src="Banner.png"
@@ -7,34 +7,54 @@
   alt="Yaswanth Chowdary Nadendla GitHub Banner"
 />
 
-</div>
+</div> -->
 
  
  <div align="center">
 
-#  Hi, I'm Yaswanth Chowdary 👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi I'm Yaswanth Chowdary Nadendla ! 
 
-### 💻 Java Full Stack Developer | 🧠 Continuous Learner | 🧩 Problem Solver
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications;Data+Structures+%26+Algorithms+Enthusiast;AWS+%7C+Cloud+Computing;Learn+%7C+Build+%7C+Solve+%7C+Repeat" alt="Typing SVG">
 
 <br>
 
+<div align="center">
+
+<div align="center">
+
+<table>
+<tr>
+<td>
 <a href="https://yashportfolio-two.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge" alt="Portfolio">
+<img src="https://img.shields.io/badge/💻%20Portfolio-7C3AED?style=for-the-badge" alt="Portfolio">
 </a>
+</td>
 
+<td>
 <a href="https://github.com/YaswanthChowdaryNadendla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+</td>
 
+<td>
 <a href="https://www.linkedin.com/in/yaswanth-chowdary-nadendla-174a662a8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+</td>
 
+<td>
 <a href="mailto:yashwanth5115@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+</td>
+</tr>
+</table>
+
+
+
+
 
 </div>
 
