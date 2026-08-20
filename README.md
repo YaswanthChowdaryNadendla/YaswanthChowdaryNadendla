@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="chatgpt.com/backend-api/estuary/content?id=file_0000000034508211957dbf4343e7a180&ts=496448&p=fs&cid=1&sig=cf58a96c385a3f081f698c8b3766b9913b5c6604d3221f904e7f06ccc7429baf&v=0" alt="Yaswanth Chowdary Nadendla">
+<img src="github.png" alt="Yaswanth Chowdary Nadendla">
 
 </div>
  
